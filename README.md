@@ -9,3 +9,8 @@ Hey, Kids 🐈‍⬛
 
 <a href="https://youtube.com/@badnobita776"><img title="YouTube" src= "https://img.shields.io/badge/YouTube-BaD Nobita-red?style=for-the-badge&logo=Youtube"></a>
 </p>
+<p align="center">
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<p/>
