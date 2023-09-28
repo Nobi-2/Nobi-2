@@ -17,4 +17,6 @@ Hey, Kids 🐈‍⬛
 <a href="https://chat.whatsapp.com/FnMfdfQADzZKrT0wQCSjGK"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp_GROUP-black?style=for-the-badge&logo=whatsapp"></a>
 
 <a href="https://www.facebook.com/profile.php?id=100086978310017&mibextid=ZbWKwL"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
+
+<a href="https://www.facebook.com/profile.php?id=100086978310017&mibextid=ZbWKwL"><img title="NobiWhatsApp" src="https://img.shields.io/badge/mediafire-blue?style=for-the-badge&logo=NobiWhatsApp"></a>
 <p/>
