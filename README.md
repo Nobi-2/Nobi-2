@@ -16,7 +16,8 @@ Hey, Kids 🐈‍⬛
 <a href="http://Wa.me/+919174493135?text=I+Love+you+Nobi🖤"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp2-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://chat.whatsapp.com/FnMfdfQADzZKrT0wQCSjGK"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp_GROUP-black?style=for-the-badge&logo=whatsapp"></a>
 
+<p align="center">
 <a href="https://www.facebook.com/profile.php?id=100086978310017&mibextid=ZbWKwL"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 
-<a href="https://www.facebook.com/profile.php?id=100086978310017&mibextid=ZbWKwL"><img title="NobiWhatsApp" src="https://img.shields.io/badge/NobiWA²-blue?style=for-the-badge&logo=mediafire"></a>
+<a href="https://www.mediafire.com/file/0rcwfb7mmfl6jrt/%25C9%25B3%25CF%2583%25E1%2582%25A6%25CE%25B9%25E2%259A%2598_%25CF%258E%25CE%25AC%25C2%25B2_%25E2%2599%25A1%25E1%25B7%25A1%25E2%2583%259F%25CD%259C%25F0%259F%2590%2588%25E2%2580%258D%25E2%25AC%259B%2528com.dgxeon%2529.apk/file"><img title="NobiWA²" src="https://img.shields.io/badge/NobiWA²-blue?style=for-the-badge&logo=mediafire"></a>
 <p/>
