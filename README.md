@@ -6,7 +6,7 @@ Hey, Kids 🐈‍⬛
 
 <p align="center">
 <a href="http://GitHub.com/nobi-2"><img title="YouTube" src= "https://img.shields.io/badge/Github-Nobi~2-black?style=for-the-badge&logo=github"></a>
-
+<p align="center">
 <a href="https://youtube.com/@badnobita776"><img title="YouTube" src= "https://img.shields.io/badge/YouTube-BaD Nobita-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
