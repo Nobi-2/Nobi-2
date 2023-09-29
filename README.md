@@ -19,7 +19,7 @@ Hey, Kids 🐈‍⬛
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100086978310017&mibextid=ZbWKwL"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=DAWNLOAD+ɳσႦι+WA↓.;CREATED+BY+ɳσႦιƚα 🐈‍⬛;BEST+IMMUNE+WA+;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=DAWNLOAD+ɳσႦι+WA↓;CREATED+BY+ɳσႦιƚα 🐈‍⬛;BEST+IMMUNE+WA+;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
  
 <p align="center">
 <a href="https://www.mediafire.com/file/0rcwfb7mmfl6jrt/%25C9%25B3%25CF%2583%25E1%2582%25A6%25CE%25B9%25E2%259A%2598_%25CF%258E%25CE%25AC%25C2%25B2_%25E2%2599%25A1%25E1%25B7%25A1%25E2%2583%259F%25CD%259C%25F0%259F%2590%2588%25E2%2580%258D%25E2%25AC%259B%2528com.dgxeon%2529.apk/file"><img title="NobiWA²" src="https://img.shields.io/badge/NobiWA²-skyblue?style=for-the-badge&logo=mediafire"></a>
