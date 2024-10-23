@@ -18,8 +18,8 @@
 <p/>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100086978310017&mibextid=ZbWKwL"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
-
-<a href="https://www.snapchat.com/add/nobita_memer?share_id=Wk6z6wgW3hU&locale=en-GB"><img title="Snapchat" src="https://img.shields.io/badge/Snapchat-black?style=for-the-badge&logo=Snapchat"></a>
+<p align="center">
+<a href="https://www.snapchat.com/add/nobita_memer?share_id=Wk6z6wgW3hU&locale=en-GB"><img title="Snapchat" src="https://img.shields.io/badge/Snapchat-black?style=for-the-badge&logo=Snapchat"></a> </p>
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hey+it's+%C9%B3%CF%83%E1%82%A6%CE%B9%C6%9A%CE%B1+%F0%9F%90%88%E2%80%8D%E2%AC%9B%F0%9F%96%A4;A+WA+bot+and+Mod+Devloper%F0%9F%90%88%E2%80%8D%E2%AC%9B;You+can+dawnload+my+WhatsApp+%E2%86%93%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
  
