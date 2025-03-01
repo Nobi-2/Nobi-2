@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://t.me/Itz_nobita_18_bOt"><img title="Telegram" src="https://img.shields.io/badge/Telegram Bot-black?style=for-the-badge&logo=Telegram "></a>
 <a href="http://Wa.me/+919179603804?text=Hey+Nobi🖤"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://instagram.com/itz_nobita_18?igshid=NTc4MTIwNjQ2YQ=="><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.com/nobi._.459?igshid=NTc4MTIwNjQ2YQ=="><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
 <a href="http://Wa.me/+919174493135?text=I+Love+you+Nobi🖤"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp2-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://chat.whatsapp.com/FnMfdfQADzZKrT0wQCSjGK"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp_GROUP-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
